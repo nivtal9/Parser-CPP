@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nivtal9/CLionProjects/parser/enums.h
+
+/home/nivtal9/CLionProjects/parser/main.cpp
+parser.h
+/home/nivtal9/CLionProjects/parser/parser.h
+
+/home/nivtal9/CLionProjects/parser/parser.h
+symbol.h
+/home/nivtal9/CLionProjects/parser/symbol.h
+
+/home/nivtal9/CLionProjects/parser/symbol.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+memory
+-
+enums.h
+/home/nivtal9/CLionProjects/parser/enums.h
+
